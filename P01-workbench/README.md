@@ -101,3 +101,8 @@ this course is built on top of that.
 
 *Open `P01.ipynb` in Jupyter and work through it top to bottom.
 The notebook contains everything in this handout, plus the code.*
+## AI Assistance Disclosure
+
+I used ChatGPT for assistance in understanding the Practical 01 instructions,
+checking my code, and troubleshooting the tasks. I reviewed the submitted work
+and understand the code that I am submitting.
