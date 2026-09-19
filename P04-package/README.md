@@ -103,3 +103,6 @@ tests this package, P07 serves it, P08 puts it in a container.
 
 *Open `P04.ipynb` in Jupyter and work through it top to bottom.
 The notebook contains everything in this handout, plus the code.*
+
+## ai assistance 
+used si for the better understanding of the code and practical related concepts 
