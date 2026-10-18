@@ -48,15 +48,6 @@ def predict(order: Order):
                       model_version=app.version)
 
 
-
-
-
-
-
-
-
-
-
 @app.get("/model-info")
 def model_info():
     return {
